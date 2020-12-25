@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any web development project**
 
-- 👨‍💻 All of my projects are available at [https://emworekwa.netlify.app/](https://emworekwa.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://emworekwa.netlify.app/](https://emworekwa.netlify.app/)
 
 - 💬 Ask me about **[Ruby, Ruby on Rails, [Faith, Hope, Love]]**
 

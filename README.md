@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit](https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit)
 
-- ⚡ Fun fact **I am a Christian**
+- ⚡ Fun fact **I laugh at me more often**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

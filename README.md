@@ -13,9 +13,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://emworekwa.netlify.app/](https://emworekwa.netlify.app/)
 
-- 💬 Ask me about **Ruby, Ruby on Rails, {Faith, Hope, Love}**
+- 💬 Ask me about { Tech: [**Ruby, Ruby on Rails**], Life: [**Faith, Hope, Love**] }
 
-- 📫 How to reach me **ebtwino718@yahoo.com**
+- 📫 How to reach me [**ebtwino718@yahoo.com**, **vanheaven6@gmail.com**] 
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit](https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit)
 

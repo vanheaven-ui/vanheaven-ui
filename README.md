@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **any web development project**
 
-- 👨‍💻 Some of my projects are available at [https://emworekwa.netlify.app/](https://emworekwa.netlify.app/)
+- 👨‍💻 Some of my projects are available at [my portfolio](https://emworekwa.netlify.app/)
 
 - 💬 Ask me about { Tech: [**Ruby, Ruby on Rails**], Life: [**Faith, Hope, Love**] }
 
 - 📫 How to reach me **ebtwino718@yahoo.com** || **vanheaven6@gmail.com** 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit](https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit)
+- 📄 Know about my experiences in [my resume](https://docs.google.com/document/d/1baOHoOXb_naCnAImslmPcSrbzkx0dUuYM7shV9BAJDA/edit)
 
 - ⚡ Fun fact **I laugh at me more often**
 

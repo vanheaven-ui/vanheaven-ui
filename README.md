@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mworekwae" target="blank"><img src="https://img.shields.io/twitter/follow/mworekwae?logo=twitter&style=for-the-badge" alt="mworekwae" /></a> </p>
 
-- 🔭 I’m currently working on **study projects at Microverse Inc.**
-
-- 🌱 I’m currently learning **React/Redux, Javascript**
-
-- 👯 I’m looking to collaborate on **any web development project**
+- 👯 I’m currently open to collaborate on **any web development project** or fill a **web development role**
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://emworekwa.netlify.app/)
 

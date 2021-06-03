@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://emworekwa.netlify.app/)
 
-- 💬 Ask me about { Tech: [**Ruby, Ruby on Rails**], Life: [**Faith, Hope, Love**] }
+- 💬 Ask me about { Tech: [**Ruby, Ruby on Rails, React**], Life: [**Faith, Hope, Love**] }
 
 - 📫 How to reach me **ebtwino718@yahoo.com** || **vanheaven6@gmail.com** 
 
